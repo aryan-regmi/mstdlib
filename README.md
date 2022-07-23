@@ -1,5 +1,4 @@
 # mstdlib
 Standard Library for C
 
-# TODO:
-# DOCUMENTATION
+# TODO: Documentation
